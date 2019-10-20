@@ -36,15 +36,15 @@ button {
 }
 
 /* The Close Button */
-.close {
+.close-btn {
   color: #aaaaaa;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
+.close-btn:hover,
+.close-btn:focus {
   color: rgb(197, 147, 8);
   text-decoration: none;
   cursor: pointer;
