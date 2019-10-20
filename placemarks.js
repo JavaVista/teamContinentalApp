@@ -43,6 +43,7 @@ placemark7.label = "Amsterdam\n";
   // "Lat " + placemark.position.latitude.toPrecision(4).toString() + "\n" +
   // "Lon " + placemark.position.longitude.toPrecision(5).toString();
 // placemark.alwaysOnTop = true;
+placemark3.alwaysOnTop = true;
 
 placemarkLayer.addRenderable(placemark);
 placemarkLayer.addRenderable(placemark2);
