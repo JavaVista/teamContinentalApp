@@ -5,7 +5,6 @@ wwd.addLayer(new WorldWind.BMNGLandsatLayer());
 wwd.addLayer(new WorldWind.OpenStreetMapImageLayer());
 wwd.addLayer(new WorldWind.StarFieldLayer());
 wwd.addLayer(new WorldWind.AtmosphereLayer());
-wwd.addLayer(new WorldWind.WmsLayer());
 
 // wwd.addLayer(new WorldWind.CompassLayer());
 wwd.addLayer(new WorldWind.CoordinatesDisplayLayer(wwd));
