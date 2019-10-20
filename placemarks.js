@@ -51,3 +51,20 @@ placemarkLayer.addRenderable(placemark4);
 placemarkLayer.addRenderable(placemark5);
 placemarkLayer.addRenderable(placemark6);
 placemarkLayer.addRenderable(placemark7);
+
+
+
+var lastDownTarget, canvas;
+window.onload = function() {
+    canvas = document.getElementsByTagName('CANVAS');
+}
+
+document.addEventListener('click', function(event) {
+  lastDownTarget = event.target;
+  alert('click');
+  console.log(position1);
+ if (position1 === placemark) {
+   console.log('console')
+ }
+}, false);
+
