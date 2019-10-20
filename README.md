@@ -10,9 +10,9 @@ Your challenge is to develop creative solutions that use Earth observations to a
 
 ## Hackathon Information
 
-[NASA International Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/teamcontinental/project)
+[NASA International Space Apps Challenge - Team](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/teamcontinental/project)
 
-[NASA Space Apps Challenge 10.19-20.20](https://photos.google.com/share/AF1QipPG86AAOy8Y74mG1SeiaeIw_0B6Rujdaagq3aguGgy1Q1KP7PAii2BGNGHVLcH0Ug?key=dm9NY0lRSlBzbXlwSGVvV3hXWXVCc2Y2UndKSTF3)
+[NASA Space Apps Challenge 10.19-20.20 - Photos](https://photos.google.com/share/AF1QipPG86AAOy8Y74mG1SeiaeIw_0B6Rujdaagq3aguGgy1Q1KP7PAii2BGNGHVLcH0Ug?key=dm9NY0lRSlBzbXlwSGVvV3hXWXVCc2Y2UndKSTF3)
 
 ## Screenshots
 
