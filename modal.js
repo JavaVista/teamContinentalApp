@@ -1,10 +1,4 @@
 (() => {
-  /*
-    This code is from my workspace in Treehouse:
-    https://teamtreehouse.com/library/jquery-basics 
-    Simple Lightbox
-  */
-
   $(document).ready(() => {
 
     var $overlay = $('<div id="modal"></div>');
@@ -28,7 +22,7 @@
       $image.attr('src', imgLocation);
       // 2) Show the overlay
       $overlay.hide().slideUp(1000).fadeIn(500);
-      // Get child's alt atribute & set caption
+      // Get child's alt attribute & set caption
       var imgCaption = $(this).children('img').attr('alt');
       console.log('caption: ' + imgCaption);
       $caption.append().text(imgCaption);

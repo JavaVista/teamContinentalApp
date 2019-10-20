@@ -1,3 +1,15 @@
+body {
+  background-color: #000;
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+}
+button {
+  /* background: rgb(117, 111, 111); */
+}
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -10,12 +22,13 @@
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  /* background-color: rgba(0,0,0,0.4); Black w/ opacity */
 }
 
 /* Modal Content */
 .modal-content {
-  background-color: #fefefe;
+  /* background-color: #fefefe; */
+  color: #fff;
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
@@ -36,4 +49,3 @@
   text-decoration: none;
   cursor: pointer;
 }
-</style>
