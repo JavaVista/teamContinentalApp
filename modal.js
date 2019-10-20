@@ -12,7 +12,6 @@
     // Add overlay
     $('body').append($overlay);
 
-
     // 1) Capture the click event on a link to an image
     $('.item a').click(function (e) {
       e.preventDefault(e);
