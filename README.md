@@ -10,7 +10,9 @@ Your challenge is to develop creative solutions that use Earth observations to a
 
 ## Screenshots
 
-![]()
+![](/images/screenshots/spaceAppMain.png)
+![](/images/screenshots/spaceAppModal1.png)
+![](/images/screenshots/spaceAppModal2.png)
 
 ## Solution - PORT CITY IMPACTS
 
